@@ -95,7 +95,7 @@
  - [Added] verification badge & system.
  - [Added] report filtration/warnings system.
  - [Added] startup page, upload avatar, fill info, follow.
- - [Added] emebd system, users can emebd posts from Chitter using iframe.
+ - [Added] emebd system, users can emebd posts from PinPix using iframe.
  - [Added] video views system.
  - [Added] ajax load for pages (now pages load without refreshing).
  - [Added] full API system for the upcoming native app + docs.
