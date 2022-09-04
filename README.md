@@ -1,9 +1,9 @@
 # <img align="left" alt="PinPix" width="200px" src="https://pinpix.cf/media/img/logo.png" draggable="false" /> ([Click to try 🚀](https://pinpix.cf/))
 
-Chitter 🎮 is a social network for everyone who loves gaming 👾 or likes to share photos and shorts in groups.
+PinPix📱is a social network for everyone who loves sharing photos 🤳 and shorts with the world.
 
-## **[Changelog 🎮](https://github.com/linkspreed/Chitter/blob/main/changelog.md)** **Check out the full Chitter changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Chitter/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Chitter besides development**
+## **[Changelog 🤳](https://github.com/linkspreed/PinPix/blob/main/changelog.md)** **Check out the full PinPix changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/PinPix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to PinPix besides development**
 
 
 <div align="center">
@@ -14,7 +14,7 @@ Chitter 🎮 is a social network for everyone who loves gaming 👾 or likes to 
 ## Features
 
  - **Upload Images & Videos:** Upload any image or video from your device and share it online
- - **High Performance & Capability:** Chitter can handle any amount of vidoes / images easily, with a very high performance and speed.
+ - **High Performance & Capability:** PinPix can handle any amount of vidoes / images easily, with a very high performance and speed.
  - **Linkspreed Integration:** With one click, user can login to your site using Linkspreed.
  - **Like:** User can like videos or images.
  - **Comments System:** User can comment on videos and images.
@@ -28,7 +28,7 @@ Chitter 🎮 is a social network for everyone who loves gaming 👾 or likes to 
 
 ## More
  
-Chitter is **free**, **real-time** and with **unlimited** resources 
+PinPix is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -39,22 +39,22 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Chitter freely and use all features to an unlimited extent.
+ You can enjoy PinPix freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
 ### Welcome
-<img align="center" alt="Chitter" width="3000px" src="https://github.com/linkspreed/Chitter/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="PinPix" width="3000px" src="https://github.com/linkspreed/PinPix/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### Timeline
-<img align="center" alt="Chitter" width="3000px" src="https://github.com/linkspreed/Chitter/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="PinPix" width="3000px" src="https://github.com/linkspreed/PinPix/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### Reels
-<img align="center" alt="Chitter" width="3000px" src="https://github.com/linkspreed/Chitter/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="PinPix" width="3000px" src="https://github.com/linkspreed/PinPix/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Explore
-<img align="center" alt="Chitter" width="3000px" src="https://github.com/linkspreed/Chitter/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="PinPix" width="3000px" src="https://github.com/linkspreed/PinPix/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="Chitter" width="3000px" src="https://github.com/linkspreed/Chitter/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="PinPix" width="3000px" src="https://github.com/linkspreed/PinPix/blob/main/screenshots/5.PNG" draggable="false" />
