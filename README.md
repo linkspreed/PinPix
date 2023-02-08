@@ -1,4 +1,4 @@
-# <img align="left" alt="PinPix" width="200px" src="https://pinpix.cf/media/img/logo.png" draggable="false" /> ([Click to try 🚀](https://pinpix.cf/))
+# <img align="left" alt="PinPix" width="150px" src="https://pinpix.cf/media/img/logo.png" draggable="false" /> ([Click to try 🚀](https://pinpix.cf/)) (v1.6)
 
 PinPix📱is a social network for everyone who loves sharing photos 🤳 and shorts with the world.
 
