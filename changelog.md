@@ -1,3 +1,52 @@
+# v1.6 2022-02-08
+ - ADDED FFMPEG debugger.
+ - ADDED SMTP debugger.
+ - ADDED Flutterwave payment method.
+ - ADDED wasabi storage system.
+ - ADDED backblaze storage system.
+ - ADDED the ability to choose withdrawal method.
+ - ADDED developer mode to admin panel.
+ - ADDED the ability to set minimum withdrawal request.
+ - ADDED Yoomoney payment method.
+ - ADDED login with TikTok.
+ - ADDED the ability to create and generate sitemap.
+ - ADDED the ability to import reels from TikTok.
+ - ADDED Google Vision API to filter nude posts.
+ - ADDED two authentication system.
+ - ADDED CDN support.
+ - ADDED the support to translate terms of use pages.
+ - ADDED the ability to disable terms pages.
+ - ADDED 3 SMS providers.
+ - ADDED FFMPEG conversation speed settings.
+ - ADDED support for image/webp.
+ - ADDED more APIs.
+ - UPDATED All PHP libs.
+ - FIXED sharing posts with hashtags appear distorted on the main feed.
+ - FIXED the avatar on the profile page shows double url and cannot be displayed once remote storage like amazon s3 is turned on.
+ - FIXED If amazon s3 enabled gifs appear broken.
+ - FIXED showing broken social links in settings page.
+ - FIXED agora live and video calls.
+ - FIXED few issues in blog system.
+ - FIXED explore page showing old posts if there are boosted posts.
+ - FIXED if s3 is enabled, social login doesn't work.
+ - FIXED user can't resend
+ - FIXED can't change "Boosted Post" value from admin panel.
+ - FIXED contact us form not sending emails.
+ - FIXED only first Navigation works in "Manage Site Advertisements" in admin panel.
+ - FIXED copy and paste using right click doesn't work in admin panel.
+ - FIXED some files are loaded remotly, now all files are loaded from the same server.
+ - FIXED can't login to site again if maintenance mode is enabled + two auth.
+ - FIXED email validation system, user was getting empty string in email.
+ - FIXED files are not deleting from Digitalocean.
+ - FIXED coinpayments system.
+ - FIXED can't edit languages from admin panel.
+ - FIXED when user share a locked post, it shows unlocked on user's profile for everyone to see.
+ - FIXED Twilio calls.
+ - FIXED Business accounts not getting approved.
+ - FIXED If you enabled pro on sign up, all links will stop working using ajax load.
+ - FIXED 20+ minor bugs
+ - IMPROVED speed.
+
 # Version 1.5 [2022/03/21]
  - [Added] LinkedIn, Vkontakte, Instagram, QQ, WeChat, Discord & Mailru social login..
  - [Added] more payment methods.
