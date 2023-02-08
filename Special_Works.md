@@ -2,6 +2,9 @@
 - We are working on **PinPix** v1.6, but will not launch the new version for a few weeks!
 
 ### 08.02.2023 (announcement PinPix)
+-  **PinPix** gets a big update today - we are going to launch v1.6. 😍
+
+### 08.02.2023 (announcement PinPix)
 - Get ready for a big update! Version 1.6 of PinPix is coming soon 🚀 We've finished up the front-end work and can't wait to share it with you 💻 #PinPix1.6 #FrontendComplete #LaunchComing
 
 # 04.09.2022
