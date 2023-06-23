@@ -1,3 +1,6 @@
+### 23.06.2023 (announcement PinPix)
+- 🎉Exciting news! We just added our PinPix platform to our subdomain system! 🔗Check it out at https://pinpix.linkspreed.com, but don't worry, nothing changes in your usage. It's just a technical upgrade in the background. Have you tried it yet? #PinPix #subdomain #upgrade 🤔
+
 ### 08.02.2023 (announcement PinPix)
 - https://github.com/linkspreed/PinPix/blob/main/changelog.md
 - The entire changelog is now available on Github.
